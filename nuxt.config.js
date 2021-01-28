@@ -1,4 +1,5 @@
 export default {
+  target: 'static',
   head: {
     titleTemplate: 'Nuxt HN | %s',
     meta: [
